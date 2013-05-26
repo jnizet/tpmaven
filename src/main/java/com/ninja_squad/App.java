@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public static int add(int i1, int i2) {
+        return i1 + i2;
+    }
 }
